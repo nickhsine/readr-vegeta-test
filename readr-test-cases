@@ -1,0 +1,56 @@
+# GET https://readr-next-staging-4g6paft7cq-de.a.run.app/
+# GET https://readr-next-staging-4g6paft7cq-de.a.run.app/post/2171
+# GET https://readr-next-staging-4g6paft7cq-de.a.run.app/post/2931
+# GET https://readr-next-staging-4g6paft7cq-de.a.run.app/post/2930
+# GET https://readr-next-staging-4g6paft7cq-de.a.run.app/post/2928
+# GET https://readr-next-staging-4g6paft7cq-de.a.run.app/post/2912
+# GET https://readr-next-staging-4g6paft7cq-de.a.run.app/post/2911
+# GET https://readr-next-staging-4g6paft7cq-de.a.run.app/post/2908
+# GET https://readr-next-staging-4g6paft7cq-de.a.run.app/post/2903
+# GET https://readr-next-staging-4g6paft7cq-de.a.run.app/post/2910
+# GET https://readr-next-staging-4g6paft7cq-de.a.run.app/post/2893
+# GET https://readr-next-staging-4g6paft7cq-de.a.run.app/post/2580
+
+POST https://readr-gql-staging-4g6paft7cq-de.a.run.app/api/graphql
+Content-type: application/json
+@./post-2580.json
+
+POST https://readr-gql-staging-4g6paft7cq-de.a.run.app/api/graphql
+Content-type: application/json
+@./post-2893.json
+
+POST https://readr-gql-staging-4g6paft7cq-de.a.run.app/api/graphql
+Content-type: application/json
+@./post-2910.json
+
+POST https://readr-gql-staging-4g6paft7cq-de.a.run.app/api/graphql
+Content-type: application/json
+@./post-2903.json
+
+POST https://readr-gql-staging-4g6paft7cq-de.a.run.app/api/graphql
+Content-type: application/json
+@./post-2908.json
+
+POST https://readr-gql-staging-4g6paft7cq-de.a.run.app/api/graphql
+Content-type: application/json
+@./post-2911.json
+
+POST https://readr-gql-staging-4g6paft7cq-de.a.run.app/api/graphql
+Content-type: application/json
+@./post-2912.json
+
+POST https://readr-gql-staging-4g6paft7cq-de.a.run.app/api/graphql
+Content-type: application/json
+@./post-2928.json
+
+POST https://readr-gql-staging-4g6paft7cq-de.a.run.app/api/graphql
+Content-type: application/json
+@./post-2930.json
+
+POST https://readr-gql-staging-4g6paft7cq-de.a.run.app/api/graphql
+Content-type: application/json
+@./post-2931.json
+
+POST https://readr-gql-staging-4g6paft7cq-de.a.run.app/api/graphql
+Content-type: application/json
+@./post-2171.json
